@@ -4,13 +4,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<!--<h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
 
-<p align="left"></p>
+<p align="left">Я начинающий Data Scientist. </p>
 
-###
+###-->
 
 <h3 align="left">🛠 Технологии:</h3>
 
