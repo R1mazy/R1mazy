@@ -3,7 +3,7 @@
 
 # 👋 Hi there! I'm Roman Lebedev  
 
-
+---
 <!--<h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
@@ -30,7 +30,7 @@
 
 ###
 
-
+---
 
 ### 🛠️ Skills  
 - Programming Languages: Python (Pandas, NumPy, Scikit-learn, Scipy, PIL, PyTorch, Albumentations, xResNet50, Fast.ai, Imblearn, NLTK, BERT, RuBERT, RandomOverSampler)  
