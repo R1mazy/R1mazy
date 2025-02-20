@@ -26,11 +26,7 @@
 | [Machine_Learning](https://github.com/R1mazy/Machine_Learning)     | Application of classical machine learning methods in various tasks           | Python, Scikit-learn, Pandas, DummyClassifier, Matplotlib, Seaborn, LinearRegression, LogisticRegression, RandomForest, SVM, KNearestNeighbors, XGBoost, LightGBM, CatBoost, GridSearchCV                  |
 | [Python-train](https://github.com/R1mazy/Python_train)            | Solving problems on Python                         | Python   |
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1mazy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -45,6 +41,10 @@
 
 ###
 
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R1mazy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <!--
 **R1mazy/R1mazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
