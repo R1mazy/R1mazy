@@ -1,7 +1,7 @@
 
 
 
-
+# 👋 Hi there! I'm Roman Lebedev  
 
 
 <!--<h3 align="left">👩‍💻  Обо мне</h3>
@@ -14,7 +14,7 @@
 
 
 
-## 📂 Projects   
+### 📂 Projects   
 
 | Project Name                  | Description                                                                 | Technologies                                                                                     |
 |-------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -62,13 +62,14 @@
 
 ###
 
-## 🛠️ Skills  
+### 🛠️ Skills  
 - Programming Languages: Python (Pandas, NumPy, Scikit-learn, Scipy, PIL, PyTorch, Albumentations, xResNet50, Fast.ai, Imblearn, NLTK, BERT, RuBERT, RandomOverSampler)  
 - Databases: PostgreSQL, Greenplum, ClickHouse  
 - Machine Learning: Classification, Regression, Feature Engineering, Computer Vision(CV), Natural Language Processing(NLP)  
 - Data Visualization: Matplotlib, Plotly, Seaborn   
 - Tools: Git, Kaggle, Jupyter Notebooks  
 
+###
 
 
 <!--
