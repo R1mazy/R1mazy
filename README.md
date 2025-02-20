@@ -1,8 +1,8 @@
-## Hi there 👋
 
 
 
-###
+
+
 
 <!--<h3 align="left">👩‍💻  Обо мне</h3>
 
@@ -14,17 +14,17 @@
 
 
 
-## 📂 Проекты   
+## 📂 Projects   
 
 | Project Name                  | Description                                                                 | Technologies                                                                                     |
 |-------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [CV-age-prediction](https://github.com/R1mazy/CV_age_prediction)  | Прогнозирование точного возраста по изображениям лиц людей(Computer Vision)   | Python, Seaborn, Matplotlib, Scipy, Numpy, Pandas, PIL, PyTorch, Albumentations, Scikit-learn, Plotly, xResNet50, Fast.ai                                                                                                  |
-| [Semantic-Analysis-project](https://github.com/R1mazy/Semantic-Analysis-project)   | Разработка модели анализа тональности текста с поддержкой мультиязычности                                          | Python, Scikit-learn, PyTorch, RandomOverSampler, Seaborn, Matplotlib, Imblearn, NLTK, BERT, RuBERT, Pandas                                   |
-| [Anomaly-project](https://github.com/R1mazy/anomaly_project)              | Детекция аномалий в данных дорожной инфраструктуры                                                       | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, IsolationForest, RandomForest                                    |
-| [VKR](https://github.com/R1mazy/vkr-lebedev)                | Сервис по подбору образовательных курсов с использованием Web Scraping                                         | Python, Beautifulsoup, Requests, JavaScript, Node.js                 |
-| [Visualization](https://github.com/R1mazy/Visualization)| Применение методов визуализации для анализа данных                |  Seaborn, Matplotlib                        |
-| [Machine_Learning](https://github.com/R1mazy/Machine_Learning)     | Применение методов классического машинного обучения в различных задачах           | Python, Scikit-learn, Pandas, DummyClassifier, Matplotlib, Seaborn, LinearRegression, LogisticRegression, RandomForest, SVM, KNearestNeighbors, XGBoost, LightGBM, CatBoost, GridSearchCV                  |
-| [Python-train](https://github.com/R1mazy/Python_train)            | Решение задач на Python                         | Python   |
+| [CV-age-prediction](https://github.com/R1mazy/CV_age_prediction)  | Predicting the exact age by people's images (Computer Vision)   | Python, Seaborn, Matplotlib, Scipy, Numpy, Pandas, PIL, PyTorch, Albumentations, Scikit-learn, Plotly, xResNet50, Fast.ai                                                                                                  |
+| [Semantic-Analysis-project](https://github.com/R1mazy/Semantic-Analysis-project)   | Development of a model of analysis of text tonality with multi-language support                                          | Python, Scikit-learn, PyTorch, RandomOverSampler, Seaborn, Matplotlib, Imblearn, NLTK, BERT, RuBERT, Pandas                                   |
+| [Anomaly-project](https://github.com/R1mazy/anomaly_project)              | Anomalies detection in road infrastructure data                                                       | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, IsolationForest, RandomForest                                    |
+| [VKR](https://github.com/R1mazy/vkr-lebedev)                | Service for the selection of educational courses using Web Scraping                                         | Python, Beautifulsoup, Requests, JavaScript, Node.js                 |
+| [Visualization](https://github.com/R1mazy/Visualization)| Application of visualization methods for data analysis                |  Seaborn, Matplotlib                        |
+| [Machine_Learning](https://github.com/R1mazy/Machine_Learning)     | Application of classical machine learning methods in various tasks           | Python, Scikit-learn, Pandas, DummyClassifier, Matplotlib, Seaborn, LinearRegression, LogisticRegression, RandomForest, SVM, KNearestNeighbors, XGBoost, LightGBM, CatBoost, GridSearchCV                  |
+| [Python-train](https://github.com/R1mazy/Python_train)            | Solving problems on Python                         | Python   |
 
 ###
 
@@ -62,7 +62,12 @@
 
 ###
 
-
+## 🛠️ Skills  
+- Programming Languages: Python (Pandas, NumPy, Scikit-learn, Scipy, PIL, PyTorch, Albumentations, xResNet50, Fast.ai, Imblearn, NLTK, BERT, RuBERT, RandomOverSampler)  
+- Databases: PostgreSQL, Greenplum, ClickHouse  
+- Machine Learning: Classification, Regression, Feature Engineering, Computer Vision(CV), Natural Language Processing(NLP)  
+- Data Visualization: Matplotlib, Plotly, Seaborn   
+- Tools: Git, Kaggle, Jupyter Notebooks  
 
 
 
