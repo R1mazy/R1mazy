@@ -29,13 +29,13 @@
 
 | Project Name                  | Description                                                                 | Technologies                                                                                     |
 |-------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [CV_age_prediction](https://github.com/R1mazy/CV_age_prediction)  | Прогнозирование точного возраста по изображениям лиц людей(Computer Vision)   | Python, Seaborn, Matplotlib, Scipy, Numpy, Pandas, PIL, PyTorch, Albumentations, Scikit-learn, Plotly, xResNet50, Fast.ai                                                                                                  |
+| [CV-age-prediction](https://github.com/R1mazy/CV_age_prediction)  | Прогнозирование точного возраста по изображениям лиц людей(Computer Vision)   | Python, Seaborn, Matplotlib, Scipy, Numpy, Pandas, PIL, PyTorch, Albumentations, Scikit-learn, Plotly, xResNet50, Fast.ai                                                                                                  |
 | [Semantic-Analysis-project](https://github.com/R1mazy/Semantic-Analysis-project)   | Разработка модели анализа тональности текста с поддержкой мультиязычности                                          | Python, Scikit-learn, PyTorch, RandomOverSampler, Seaborn, Matplotlib, Imblearn, NLTK, BERT, RuBERT, Pandas                                   |
-| [anomaly_project](https://github.com/R1mazy/anomaly_project)              | Детекция аномалий в данных дорожной инфраструктуры                                                       | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, IsolationForest, RandomForest                                    |
-| [vkr-lebedev](https://github.com/R1mazy/vkr-lebedev)                | Сервис по подбору образовательных курсов с использованием Web Scraping                                         | Python, Beautifulsoup, Requests, JavaScript, Node.js                 |
+| [Anomaly-project](https://github.com/R1mazy/anomaly_project)              | Детекция аномалий в данных дорожной инфраструктуры                                                       | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, IsolationForest, RandomForest                                    |
+| [VKR](https://github.com/R1mazy/vkr-lebedev)                | Сервис по подбору образовательных курсов с использованием Web Scraping                                         | Python, Beautifulsoup, Requests, JavaScript, Node.js                 |
 | [Visualization](https://github.com/R1mazy/Visualization)| Применение методов визуализации для анализа данных                |  Seaborn, Matplotlib                        |
 | [Machine_Learning](https://github.com/R1mazy/Machine_Learning)     | Применение методов классического машинного обучения в различных задачах           | Python, Scikit-learn, Pandas, DummyClassifier, Matplotlib, Seaborn, LinearRegression, LogisticRegression, RandomForest, SVM, KNearestNeighbors, XGBoost, LightGBM, CatBoost, GridSearchCV                  |
-| [Python_train](https://github.com/R1mazy/Python_train)            | Решение задач на Python                         | Python   |
+| [Python-train](https://github.com/R1mazy/Python_train)            | Решение задач на Python                         | Python   |
 
 ###
 
