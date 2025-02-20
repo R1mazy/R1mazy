@@ -34,33 +34,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
 
 ### 🛠️ Skills  
 - Programming Languages: Python (Pandas, NumPy, Scikit-learn, Scipy, PIL, PyTorch, Albumentations, xResNet50, Fast.ai, Imblearn, NLTK, BERT, RuBERT, RandomOverSampler)  
