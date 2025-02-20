@@ -12,19 +12,6 @@
 
 ###-->
 
-<h3 align="left">🛠 Технологии:</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-</div>
-
-###
 
 
 ## 📂 Проекты   
@@ -55,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
 </div>
 
 ###
