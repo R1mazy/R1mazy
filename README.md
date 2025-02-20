@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Привет👋 Меня зовут Роман!</h1>
+
 
 ###
 
@@ -25,18 +25,17 @@
 ###
 
 
-## 📂 My Projects  
-Here are some of my featured projects:  
+## 📂 Проекты   
 
 | Project Name                  | Description                                                                 | Technologies                                                                                     |
 |-------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [CV_age_prediction](https://github.com/R1mazy/CV_age_prediction)  | Classification of comments for toxicity   | Python, NLTK, Re, ADASYN, CatBoost, LightGBM                                                                                                 |
-| [Semantic-Analysis-project](https://github.com/R1mazy/Semantic-Analysis-project)   | Passenger survival classification                                          | Python, Scikit-learn, Missingno, Pipeline, CatBoost, LightGBM                                   |
-| [anomaly_project](https://github.com/R1mazy/anomaly_project)              | Taxi order prediction                                                       | Python, StatsModels, Scikit-learn, Pandas, Numpy, Matplotlib                                    |
-| [vkr-lebedev](https://github.com/R1mazy/vkr-lebedev)                | Oil reserves prediction in a region                                         | Python, Scikit-learn, LinearRegression, Pandas, PolynomialFeatures, Matplotlib                  |
-| [Visualization](https://github.com/R1mazy/Visualization)| Employee satisfaction prediction and turnover classification                | Regression + Classification, Python, Pandas, Scikit-learn, Seaborn, Phik                        |
-| [Machine_Learning](https://github.com/R1mazy/Machine_Learning)     | Prediction of customers activity and personalized recommendations           | Python, Shap, Phik, Scikit-learn, Pandas, DummyClassifier, Matplotlib, Seaborn                  |
-| [Python_train](https://github.com/R1mazy/Python_train)            | Prediction of cow milk yield and milk taste quality                         | Python, Scikit-learn, LinearRegression, LogisticRegression, Pandas, Phik, Matplotlib, Seaborn   |
+| [CV_age_prediction](https://github.com/R1mazy/CV_age_prediction)  | Прогнозирование точного возраста по изображениям лиц людей(Computer Vision)   | Python, Seaborn, Matplotlib, Scipy, Numpy, Pandas, PIL, PyTorch, Albumentations, Scikit-learn, Plotly, xResNet50, Fast.ai                                                                                                  |
+| [Semantic-Analysis-project](https://github.com/R1mazy/Semantic-Analysis-project)   | Разработка модели анализа тональности текста с поддержкой мультиязычности                                          | Python, Scikit-learn, PyTorch, RandomOverSampler, Seaborn, Matplotlib, Imblearn, NLTK, BERT, RuBERT, Pandas                                   |
+| [anomaly_project](https://github.com/R1mazy/anomaly_project)              | Детекция аномалий в данных дорожной инфраструктуры                                                       | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, IsolationForest, RandomForest                                    |
+| [vkr-lebedev](https://github.com/R1mazy/vkr-lebedev)                | Сервис по подбору образовательных курсов с использованием Web Scraping                                         | Python, Beautifulsoup, Requests, JavaScript, Node.js                 |
+| [Visualization](https://github.com/R1mazy/Visualization)| Применение методов визуализации для анализа данных                |  Seaborn, Matplotlib                        |
+| [Machine_Learning](https://github.com/R1mazy/Machine_Learning)     | Применение методов классического машинного обучения в различных задачах           | Python, Scikit-learn, Pandas, DummyClassifier, Matplotlib, Seaborn, LinearRegression, LogisticRegression, RandomForest, SVM, KNearestNeighbors, XGBoost, LightGBM, CatBoost, GridSearchCV                  |
+| [Python_train](https://github.com/R1mazy/Python_train)            | Решение задач на Python                         | Python   |
 
 ###
 
