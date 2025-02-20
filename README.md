@@ -4,13 +4,6 @@
 # 👋 Hi there! I'm Roman Lebedev  
 
 ---
-<!--<h3 align="left">👩‍💻  Обо мне</h3>
-
-###
-
-<p align="left">Я начинающий Data Scientist. </p>
-
-###-->
 
 
 
